@@ -1,0 +1,6 @@
+Historias de Usuario:
+Son descripciones breves de requisitos funcionales expresadas en el lenguaje del usuario.
+Casos de uso : se usa UML que Se utiliza para especificar, visualizar y documentar casos de uso mediante:
+ Diagramas de caso de uso.
+ Diagramas de estados.
+ Diagramas de actividades.

@@ -1,0 +1,5 @@
+Actores Product Owner , scrum master, stakeholders, team
+herramientas: Product Backlog, Sprint Backlog,
+Ceremonias: Daily, Planning, review, restrospective,refinamiento
+
+Luego de juntar los requisitos con los stakeholders, El ProductOwner se encargara de definir las tareas y prioridades en el backlog, el scrum master se encargara de hacer de soporte al equipo en caso necesiten apollo y se encargara de que funcionen los sprint, por ultimo el equipo es quien llevara a cabo el proyecto y veremos los resultados en las ceremonias

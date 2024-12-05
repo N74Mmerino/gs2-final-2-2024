@@ -1,0 +1,2 @@
+Funcionales :Lo que el sistema debe hacer
+No Funcionales :Atributos de calidad
